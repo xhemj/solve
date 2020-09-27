@@ -8,5 +8,6 @@
       "source": "/solve/(.*)",
       "destination": "https://cdn.jsdelivr.net/gh/xhemj/solve@latest/$1.jpg"
     }
+
   ]
 }
