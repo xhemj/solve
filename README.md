@@ -7,30 +7,30 @@
 <table>
 <thead>
 <tr>
-<th>老师</th>
-<th>图片</th>
+<th style="text-align:center">老师</th>
+<th style="text-align:center">图片</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>地理邵老师</td>
-<td>[/dl-sls.jpg](/dl-sls.jpg)</td>
+<td style="text-align:center">地理邵老师</td>
+<td style="text-align:center">[dl-sls.jpg](/dl-sls.jpg)</td>
 </tr>
 <tr>
-<td>地理吴老师</td>
-<td>[/dl-wls.jpg](/dl-wls.jpg)</td>
+<td style="text-align:center">地理吴老师</td>
+<td style="text-align:center">[dl-wls.jpg](/dl-wls.jpg)</td>
 </tr>
 <tr>
-<td>地理朱老师</td>
-<td>[/dl-zls.jpg](/dl-zls.jpg)</td>
+<td style="text-align:center">地理朱老师</td>
+<td style="text-align:center">[dl-zls.jpg](/dl-zls.jpg)</td>
 </tr>
 <tr>
-<td>数学王老师</td>
-<td>[/sx-lw1.jpg](/sx-lw1.jpg)</td>
+<td style="text-align:center">数学王老师</td>
+<td style="text-align:center">[sx-lw1.jpg](/sx-lw1.jpg)</td>
 </tr>
 <tr>
-<td>数学王老师</td>
-<td>[/sx-lw2.jpg](/sx-lw2.jpg)</td>
+<td style="text-align:center">数学王老师</td>
+<td style="text-align:center">[sx-lw2.jpg](/sx-lw2.jpg)</td>
 </tr>
 </tbody>
 </table>
